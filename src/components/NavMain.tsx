@@ -1,4 +1,4 @@
-import { useState } from 'react'; // , useEffect
+import { useState } from 'react';
 import type { MenuProps } from 'antd';
 import { Menu } from 'antd';
 
